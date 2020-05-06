@@ -11,9 +11,17 @@ READI (formerly [EAARC](https://www.eaarc.org/)) is a group of volunteers who co
 
 ## Survey of COVID-19 Responses to Understand Behaviour (SCRUB)
 
-If you are interested in joining our collaboration, please complete [this Google form](https://forms.gle/ZA8ZQCU2aGYS31QJA) or email peter.slattery@monash.edu. You can also find more information about this project on our [Research page](pages/research.html)
+The Survey of COVID-19 Responses to Understand Behaviour (SCRUB) project aims to provide current and future policy makers with actionable insights into public attitudes and behaviours relating to the COVID-19 pandemic.
 
-<img src="/assets/COVID-19 LS - Wave 1 - Behaviours.png" alt="Prevalence of behaviour from Wave 1 of COVID-19 living survey" style="width:80%;">
+Building on the COSMO project, a WHO/Europe initiative - we are running a “living survey” -- with both repeated cross-sectional and longitudinal sampling -- running throughout the pandemic. In this survey we track relevant protective behaviours, (e.g., handwashing and social distancing) their variations by demographic and location, and their determinants. We also test interventions.
+
+After each wave of data collection, we generate and disseminate an updated report. 
+
+We have about 120 international collaborators, and are supporting country teams in setting up local versions of SCRUB. More than 4000 people across 40 countries have completed the first and second waves of data collection. 
+
+Participate in the SCRUB study or read more about how to access the open science data at https://www.scrubcovid19.org
+
+## More information about READI
 
 Refer to this frequently updated document for more information:
 
