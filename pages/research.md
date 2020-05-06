@@ -8,17 +8,15 @@ description: EAARC projects
 
 ## What are people's experiences and behaviours in response to the novel coronavirus (COVID-19)?
 
-We are conducting a research project to understand why citizens do/don’t enact key public health behaviours (e.g., handwashing, compliance with social distancing directives) that can slow the spread of the novel coronavirus. We have more than 100 international researchers working with us on this project.
+The Survey of COVID-19 Responses to Understand Behaviour (SCRUB) project aims to provide current and future policy makers with actionable insights into public attitudes and behaviours relating to the COVID-19 pandemic.
 
-Our project is supporting COVID-19 policy and messaging decisions made by people working in government and public health. 
+Building on the COSMO project, a WHO/Europe initiative - we are running a “living survey” -- with both repeated cross-sectional and longitudinal sampling -- running throughout the pandemic. In this survey we track relevant protective behaviours, (e.g., handwashing and social distancing) their variations by demographic and location, and their determinants. We also test interventions.
 
-We are conducting a “living survey” -- with both repeated cross-sectional and longitudinal sampling -- to track behaviour and its determinants over time. 
+After each wave of data collection, we generate and disseminate an updated report. 
 
-Each time the survey is updated with new data, we are generating an updated report about the prevalence of protective behaviours, their most important drivers or barriers, a break-down by key demographics, and trends over time.
+We have about 120 international collaborators, and are supporting country teams in setting up local versions of SCRUB. More than 4000 people across 40 countries have completed the first and second waves of data collection. 
 
-Our vision for this project is an international and continuously-updated dataset that can provide local insights to help government and public health officials make better decisions to fight against the novel coronavirus. 
-
-If you are interested in participating, please complete [the Google form](https://forms.gle/ZA8ZQCU2aGYS31QJA).
+Participate in the SCRUB study or read more about how to access the open science data at https://www.scrubcovid19.org
 
 ## What works to reduce dietary consumption of animal products?
 
