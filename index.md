@@ -7,7 +7,7 @@ title: READI
 
 # READI Research
 
-READI (formerly [EAARC](https://www.eaarc.org/)) is a group of volunteers who conduct research and provide evidence-informed, rigorous and implementable recommendations for practitioners working in EA cause areas. 
+The Rapid Effective Action Development Initiative (READI) (formerly [EAARC](https://www.eaarc.org/)) is a group of volunteers who conduct research and provide evidence-informed, rigorous and implementable recommendations for practitioners working in EA cause areas. 
 
 ## Survey of COVID-19 Responses to Understand Behaviour (SCRUB)
 
