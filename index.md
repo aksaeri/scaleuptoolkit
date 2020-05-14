@@ -27,4 +27,4 @@ Refer to this frequently updated document for more information:
 
 - [READI/EAARC Public Summary](https://docs.google.com/document/d/1VSPoy2Ps7NQqFgERjKUXH-8tiEHNTuVZ-L6MY6YWpyk/edit?usp=sharing)
 
-You may find that this website still refers to EAARC; please email us if it is after 1 May 2020 and this has not been fixed.
+You may find that this website still refers to EAARC; please email us if it is after 1 June 2020 and this has not been fixed.
