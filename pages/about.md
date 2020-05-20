@@ -6,7 +6,7 @@ description: READI About Page
 
 # About READI
 
-The Rapid Effective Action Development Initiative (READI) is a group of volunteers who conduct research and provide evidence-informed, rigorous and implementable recommendations for practitioners working in EA cause areas.
+The Rapid Effective Action Development Initiative (READI) is a group of volunteers who conduct research and provide evidence-informed, rigorous and implementable recommendations for practitioners working on signficant societal problems.
 
 Michael Noetel, Alexander Saeri and Peter Slattery are academic researchers who met at EAGx Sydney in 2017 and founded EAARC in 2019. 
 
