@@ -7,9 +7,11 @@ title: READI
 
 # READI Research
 
-The Rapid Effective Action Development Initiative (READI) (formerly [EAARC](https://www.eaarc.org/)) is a group of volunteers who conduct research and provide evidence-informed, rigorous and implementable recommendations for practitioners working in EA cause areas. 
+The Rapid Effective Action Development Initiative (READI) (formerly [EAARC](https://www.eaarc.org/)) is a group of volunteers who conduct research and provide evidence-informed, rigorous and implementable recommendations for practitioners working on signficant societal problems. 
 
-## Survey of COVID-19 Responses to Understand Behaviour (SCRUB)
+## Research projects
+
+### What are people's experiences and behaviours in response to the novel coronavirus (COVID-19)?
 
 The Survey of COVID-19 Responses to Understand Behaviour (SCRUB) project aims to provide current and future policy makers with actionable insights into public attitudes and behaviours relating to the COVID-19 pandemic.
 
@@ -20,6 +22,22 @@ After each wave of data collection, we generate and disseminate an updated repor
 We have about 120 international collaborators, and are supporting country teams in setting up local versions of SCRUB. More than 4000 people across 40 countries have completed the first and second waves of data collection. 
 
 Participate in the SCRUB study or read more about how to access the open science data at https://www.scrubcovid19.org
+
+### What works to reduce dietary consumption of animal products?
+
+We are conducting an overview of reviews to identify interventions that reduce dietary consumption of animal products.
+
+You can read the project protocol:
+
+- [READI/EAARC protocol - reducing animal product consumption](https://docs.google.com/document/d/1zqUPNGktRz6emp0WsPmmVjkOitiW7XdWS55YgBTNnp0/edit?usp=sharing)
+
+### What works to promote charitable donations?
+
+We conducted an overview of systematic reviews to identify interventions that promote charitable donations.
+
+You can read the project summary:
+
+- [READI/EAARC project summary - what works to promote charitable donations?](https://docs.google.com/document/d/1osAwuO1J9L2z3PDGQn6UkFEA-4vs5WV9eJ5hAASnS7o/edit?usp=sharing)
 
 ## More information about READI
 
