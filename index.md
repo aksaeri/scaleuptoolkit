@@ -19,7 +19,7 @@ Building on the COSMO project, a WHO/Europe initiative - we are running a “liv
 
 After each wave of data collection, we generate and disseminate an updated report. 
 
-We have about 120 international collaborators, and are supporting country teams in setting up local versions of SCRUB. More than 4000 people across 40 countries have completed the first and second waves of data collection. 
+We have over 100 international collaborators and more than 4000 people across 40 countries have completed the first and second waves of data collection. 
 
 Participate in the SCRUB study or read more about how to access the open science data at https://www.scrubcovid19.org
 
