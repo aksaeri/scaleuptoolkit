@@ -10,11 +10,11 @@ description: EAARC projects
 
 The Survey of COVID-19 Responses to Understand Behaviour (SCRUB) project aims to provide current and future policy makers with actionable insights into public attitudes and behaviours relating to the COVID-19 pandemic.
 
-Building on the COSMO project, a WHO/Europe initiative - we are running a “living survey” -- with both repeated cross-sectional and longitudinal sampling -- running throughout the pandemic. In this survey we track relevant protective behaviours, (e.g., handwashing and social distancing) their variations by demographic and location, and their determinants. We also test interventions.
+Building on the COSMO project, a WHO/Europe initiative - we are running a “living survey” -- with both repeated cross-sectional and longitudinal sampling --  throughout the pandemic. In this survey we track relevant protective behaviours (e.g., handwashing and social distancing) their variations by demographic and location, and their determinants. We also test interventions.
 
-After each wave of data collection, we generate and disseminate an updated report. 
+After each wave of data collection, we generate and disseminate an updated report to relevant policy actors. 
 
-We have about 120 international collaborators, and are supporting country teams in setting up local versions of SCRUB. More than 4000 people across 40 countries have completed the first and second waves of data collection. 
+More than 10,000 surveys in more than 40 countries have already been completed. 
 
 Participate in the SCRUB study or read more about how to access the open science data at https://www.scrubcovid19.org
 
