@@ -12,9 +12,9 @@ The Survey of COVID-19 Responses to Understand Behaviour (SCRUB) project aims to
 
 Building on the COSMO project, a WHO/Europe initiative - we are running a “living survey” -- with both repeated cross-sectional and longitudinal sampling --  throughout the pandemic. In this survey we track relevant protective behaviours (e.g., handwashing and social distancing) their variations by demographic and location, and their determinants. We also test interventions.
 
-After each wave of data collection, we generate and disseminate an updated report to relevant policy actors. 
+After each wave of data collection, we generate and disseminate an updated report. 
 
-More than 10,000 surveys in more than 40 countries have already been completed. 
+We have over 100 international collaborators and more than 4000 people across 40 countries have completed the first and second waves of data collection. 
 
 Participate in the SCRUB study or read more about how to access the open science data at https://www.scrubcovid19.org
 
