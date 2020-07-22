@@ -21,7 +21,7 @@ After each wave of data collection, we generate and disseminate an updated repor
 
 More than 10,000 surveys in more than 40 countries have already been completed.   
 
-Participate in the SCRUB study or read more about how to access the open science data at https://www.scrubcovid19.org
+Participate in the SCRUB study or read more about how to access the open science data at [https://www.scrubcovid19.org](https://www.scrubcovid19.org)
 
 ### What works to reduce dietary consumption of animal products?
 
