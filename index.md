@@ -9,6 +9,10 @@ title: READI
 
 The Rapid Effective Action Development Initiative (READI) (formerly [EAARC](https://www.eaarc.org/)) is a group of volunteers who conduct research and provide evidence-informed, rigorous and implementable recommendations for practitioners working on significant societal problems. 
 
+<p align="center">
+<img src="https://drive.google.com/uc?export=view&id=1GwKcWCGB4jLSqVB3lA6ZK0PGbTnfsKtV" height="480" width="680">
+</p> 
+
 ## Research projects
 
 ### What are people's experiences and behaviours in response to the novel coronavirus (COVID-19)?
